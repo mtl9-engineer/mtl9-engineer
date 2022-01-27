@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Taoufik Lahmidi</h1>
 <h3 align="center">A Passionate Web And Mobile Developer - Software Engineer</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **JAVA - SPRING BOOT AND FLUTTER**
+- 💬 Ask me about **Full Stack Developer (JAVA/SPRING-BOOT , JS/NODEJS) **
 
 - 📫 How to reach me **mohammedtaoufiklahmidi@gmail.com**
 
